@@ -1,0 +1,4 @@
+ WARNING | 09-22-22 | 23:26:46 | Thursday | [SCROLLING]: 2 
+ ERROR | 09-22-22 | 23:26:49 | Thursday | [ERROR]: list index out of range | https://www.google.com/maps/place/1st+Class+Towing+%26+Recovery+-+Anchorage,+Wasilla,+Eagle+River,+Girdwood,+Seward,+Homer./data=!4m7!3m6!1s0x56c897c23e8bd7c1:0x452ac96ccd532207!8m2!3d61.1870057!4d-149.8968902!16s%2Fg%2F11bzrqmd6j!19sChIJwdeLPsKXyFYRByJTzWzJKkU?authuser=0&hl=en&rclk=1 | 
+ ERROR | 09-22-22 | 23:26:49 | Thursday | [ERROR]: 'NoneType' object has no attribute 'get' | https://www.google.com/maps/place/1st+Class+Towing+%26+Recovery+-+Anchorage,+Wasilla,+Eagle+River,+Girdwood,+Seward,+Homer./data=!4m7!3m6!1s0x56c897c23e8bd7c1:0x452ac96ccd532207!8m2!3d61.1870057!4d-149.8968902!16s%2Fg%2F11bzrqmd6j!19sChIJwdeLPsKXyFYRByJTzWzJKkU?authuser=0&hl=en&rclk=1 | 
+ INFO | 09-22-22 | 23:26:49 | Thursday | [MAIN]: Progress: 1/30409 
